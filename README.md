@@ -145,33 +145,6 @@ sqlglot-explainer/
 └── examples/                # Example SQL files (optional)
 ```
 
-## 🛠️ Development
-
-### Adding New Examples
-
-Feel free to extend the notebook with your own examples. Common use cases to explore:
-
-- Stored procedures and functions
-- User-defined functions (UDFs)
-- Partitioning and clustering
-- Materialized views
-- Complex analytical queries
-
-### Code Quality
-
-This project uses modern Python tooling:
-
-- **Black** - Code formatting
-- **Ruff** - Fast linting
-- **MyPy** - Type checking (optional)
-
-Run formatting:
-
-```bash
-uv run black .
-uv run ruff check .
-```
-
 ## 📝 Notes
 
 - This project does **NOT** connect to any databases
@@ -189,16 +162,7 @@ uv run ruff check .
 
 ## 📄 License
 
-MIT License - feel free to use this project for learning and development.
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-- Add more examples
-- Fix documentation
-- Improve code quality
-- Share your use cases
+UNLICENSE
 
 ## 🙏 Acknowledgments
 
